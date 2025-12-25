@@ -23,9 +23,13 @@ Work experience
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+1.	Jiang, W., Liu, Q., Wang, K., Ding, S., Bo, H., Xu, C., ..., Zhao, T., & Li, H. (2024). Multimodal Brain Signal Analysis with State-Space Modeling: A Study on Working Memory. In 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) (pp. 3351-3356). IEEE.
+2.	Jiang, W., Lin, Z., Wang, K., Ding, S., Fang, C., Bo, H., ... & Li, H. (2024). Exploring the Neural Dynamics in Temporal Lobe Epilepsy: A Study using Transformer and Hidden Markov Models. In 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM) (pp. 1526-1531). IEEE.
+3.	Jiang, W., Ma, L., & Li, H. (2024). Graph Network Modeling of Brain Connectivity: An Exploration of Word and Object Recognition Tasks. In 2024 IEEE 17th International Conference on Signal Processing (ICSP) (pp. 692-696). IEEE.
+4.	Jiang, W., Ding, S., Xu, C., Ke, H., Bo, H., Zhao, T., Ma, L., & Li, H. (2023). Discovering the neuronal dynamics in major depressive disorder using Hidden Markov Model. Frontiers in Human Neuroscience, 17, 1197613.
+5.	Jiang, W., Lin, F., Zhang, J., Zhan, T., Cao, P., & Wang, S. (2020). Deep-Learning-Based Segmentation and Localization of White Matter Hyperintensities on Magnetic Resonance Images. Interdisciplinary Sciences: Computational Life Sciences, 1-9.
+6.	Liu, Q., Xu, C., Jiang, W., Wang, K., Ma, L., & Li, H. (2025). TimeStacker: A Novel Framework with Multilevel Observation for Capturing Nonstationary Patterns in Time Series Forecasting. In 42nd International Conference on Machine Learning (ICML).
+7.	Luo, G., Zhao, N., Jiang, W., Hui, E. S., & Cao, P. (2020). MRI reconstruction using deep Bayesian estimation. Magnetic resonance in medicine, 84(4), 2246-2261.
   
 Academic Service
 ======
